@@ -1,0 +1,28 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Write unit test - typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thien521999/demo-next14.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Martin Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thien521999/demo-next14/issues"
+  },
+  "homepage": "https://github.com/Thien521999/demo-next14#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.2"
+  }
+}
